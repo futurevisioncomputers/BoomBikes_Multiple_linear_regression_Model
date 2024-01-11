@@ -167,7 +167,6 @@ Give credit here.
 - https://seaborn.pydata.org/
 - https://plotly.com/
 - https://pandas.pydata.org/
-- https://learn.upgrad.com/
 
 
 ## Contact
